@@ -6,13 +6,12 @@
 ##### Date and time in JavaScript are represented by the Date object. You
             can't create "only date" or "only time": Date objects always contain both.
 
-# Date methods
 ![Philadelphia's Magic Gardens. This place was so cool!](./img/js1.jpg "Philadelphia's Magic Gardens")
 
 ![Philadelphia's Magic Gardens. This place was so cool!](./img/js1.2.jpg "Philadelphia's Magic Gardens")
 
+# Date methods
 ## Methods get
-
 ![Philadelphia's Magic Gardens. This place was so cool!](./img/js2.jpg "Philadelphia's Magic Gardens")
 
 ![Philadelphia's Magic Gardens. This place was so cool!](./img/js2.2.jpg "Philadelphia's Magic Gardens")
@@ -22,6 +21,7 @@
 ![Philadelphia's Magic Gardens. This place was so cool!](./img/js3.jpg "Philadelphia's Magic Gardens")
 
 ![Philadelphia's Magic Gardens. This place was so cool!](./img/js3.2.jpg "Philadelphia's Magic Gardens")
+
 
 # What is it UTC
 #
